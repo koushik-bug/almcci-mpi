@@ -5,7 +5,7 @@ subSpace,4000
 nStates,10
 Ms,1,0
 s2Target,0
-maxItr,20
+maxItr,30
 startSpinTargetItr,5
 energyTola, 0.03
 spinTola,0.2
